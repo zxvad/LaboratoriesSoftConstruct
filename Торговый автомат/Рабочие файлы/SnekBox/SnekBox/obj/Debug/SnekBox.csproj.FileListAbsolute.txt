@@ -1,0 +1,13 @@
+D:\Учёба\Власов\SnekBox\SnekBox\bin\Debug\SnekBox.exe.config
+D:\Учёба\Власов\SnekBox\SnekBox\bin\Debug\SnekBox.exe
+D:\Учёба\Власов\SnekBox\SnekBox\bin\Debug\SnekBox.pdb
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\SnekBox.csprojResolveAssemblyReference.cache
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\MainWindow.baml
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\MainWindow.g.cs
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\App.g.cs
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\SnekBox_MarkupCompile.cache
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\SnekBox.g.resources
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\SnekBox.Properties.Resources.resources
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\SnekBox.csproj.GenerateResource.Cache
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\SnekBox.exe
+D:\Учёба\Власов\SnekBox\SnekBox\obj\Debug\SnekBox.pdb
